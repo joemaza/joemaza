@@ -1,4 +1,4 @@
-# Hi there, I'm Joe Maza 👋
+# Hi there, I'm Joseph "Joe" Maza 👋
 
 ## About Me
 I'm a passionate developer interested in building innovative solutions and contributing to open-source projects.
