@@ -67,16 +67,14 @@ I'm always interested in collaborating on:
 - Innovative tech solutions
 - Learning opportunities
 
-## 💬 Let's Connect!
+## 📫 Let's Connect!
+
+Feel free to reach out if you want to collaborate on a project, need help with something, or just want to connect!
 
 - 💼 LinkedIn: [linkedin.com/in/joemaza](https://linkedin.com/in/joemaza)
 - 🐦 Twitter: [@joemaza](https://twitter.com/joemaza)
 - 📧 Email: [contact@joemaza.com](mailto:contact@joemaza.com)
 - 🌐 Website: [joemaza.com](https://joemaza.com)
-
-## 📫 How to Reach Me
-
-Feel free to reach out if you want to collaborate on a project, need help with something, or just want to connect!
 
 ---
 
