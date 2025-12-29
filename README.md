@@ -45,7 +45,6 @@ Accomplished software engineer with 20+ years of experience specializing in buil
 - GitHub: [@joemaza](https://github.com/joemaza)
 - Email: joseph.maza@gmail.com
 - LinkedIn: [joseph-s-maza](https://www.linkedin.com/in/joseph-s-maza)
-- Phone: (206) 519-7957
 
 ## 🤝 Open to Collaboration
 I'm interested in collaborating on projects involving:
